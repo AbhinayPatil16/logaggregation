@@ -1,0 +1,2 @@
+{"id":"scsmbstgrb","state":"STARTED","timestamp":"1081157732","type":"APPLICATION_LOG","host":"12345"}
+{"id":"scsmbstgrb","state":"FINISHED","timestamp":"1081157732","type":"APPLICATION_LOG","host":"12345"}
